@@ -1,0 +1,6 @@
+{
+  "tagNames": "@/data/nikke-tags.json",
+  "roster": {
+    "rapi-red-hood": "@/data/nikke/rapi-red-hood.json"
+  }
+}

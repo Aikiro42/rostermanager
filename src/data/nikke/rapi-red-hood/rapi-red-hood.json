@@ -1,0 +1,14 @@
+{
+  "name": "Rapi: Red Hood",
+  "profile": "/nikke/rapi-red-hood/rapi-red-hood.svg",
+
+  "tags": ["fire", "iron", "mg"],
+  "tagSynergy": ["ammoUpSupport"],
+  "tagAntisynergy": ["ammoDownSupport"],
+  "info": [
+    "@/data/nikke/rapi-red-hood/passive.md",
+    "@/data/nikke/rapi-red-hood/skill1.md",
+    "@/data/nikke/rapi-red-hood/skill2.md",
+    "@/data/nikke/rapi-red-hood/burst.md"
+  ]
+}
